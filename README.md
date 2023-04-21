@@ -1,1 +1,1 @@
-# Social_media-platform_API
+# Social_media_platform_API
